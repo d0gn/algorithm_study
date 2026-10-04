@@ -7,3 +7,4 @@
 | 번호 | 문제명 | 난이도 | 풀이 링크 | 사용 언어 |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | | Level 1 | [링크]() | Python |
+| 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 | [Solution](programmers\level2\올바른 괄호\Solution.py) | Python |
