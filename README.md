@@ -14,4 +14,5 @@
 | 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/Solution.py) | Python |
 | 3 | [최대값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | Level 2 | Solution | Python |
 | 4 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | Level 2 | Solution | Python |
-| 5 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
+| 5 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | Level 2 | Solution | Python |
+| 6 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
