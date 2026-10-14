@@ -16,4 +16,5 @@
 | 4 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | Level 2 | Solution | Python |
 | 5 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | Level 2 | Solution | Python |
 | 6 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Level 2 | Solution | Python |
-| 7 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
+| 7 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | Level 2 | Solution | Python |
+| 8 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
