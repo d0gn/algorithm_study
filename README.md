@@ -19,4 +19,6 @@
 | 7 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | Level 2 | Solution | Python |
 | 8 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | Level 2 | Solution | Python |
 | 9 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Level 2 | Solution | Python |
-| 10 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
+| 10 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | Level 2 | Solution | Python |
+| 11 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
+| 12 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | Level 1 | [Solution] | Python |
