@@ -22,3 +22,5 @@
 | 10 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | Level 2 | Solution | Python |
 | 11 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level 1 | [Solution](https://github.com/d0gn/algorithm_study/blob/main/programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/solution.py) | Python |
 | 12 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | Level 1 | [Solution] | Python |
+| 13 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | Level 1 | [Solution] | Python |
+| 14 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Level 2 | [Solution] | Python |
