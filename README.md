@@ -24,3 +24,5 @@
 | 12 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | Level 1 | [Solution] | Python |
 | 13 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | Level 1 | [Solution] | Python |
 | 14 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Level 2 | [Solution] | Python |
+| 15 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935/solution_groups?language=python3) | Level 1 | [Solution] | Python |
+| 16 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | Level 2 | [Solution] | Python |
