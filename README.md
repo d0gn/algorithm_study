@@ -27,3 +27,4 @@
 | 15 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935/solution_groups?language=python3) | Level 1 | [Solution] | Python |
 | 16 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | Level 2 | [Solution] | Python |
 | 17 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Level 2 | [Solution] | Python |
+| 18 | [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | Level 2 | [Solution] | Python |
