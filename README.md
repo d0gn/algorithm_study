@@ -28,3 +28,5 @@
 | 16 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | Level 2 | [Solution] | Python |
 | 17 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Level 2 | [Solution] | Python |
 | 18 | [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | Level 2 | [Solution] | Python |
+| 19 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Level 2 | [Solution] | Python |
+| 20 | [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | Level 2 | [Solution] | Python |
