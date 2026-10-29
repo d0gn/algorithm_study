@@ -31,3 +31,5 @@
 | 19 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Level 2 | [Solution] | Python |
 | 20 | [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | Level 2 | [Solution] | Python |
 | 21 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | Level 2 | [Solution] | Python |
+| 22 | [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | Level 1| [Solution] | Python |
+| 23 | [예상 대진표](hhttps://school.programmers.co.kr/learn/courses/30/lessons/12985) | Level 2| [Solution](./programmers/level2/예상%20대진표/Solution.py) | Python |

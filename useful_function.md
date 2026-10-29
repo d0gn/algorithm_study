@@ -13,3 +13,4 @@
 | itertools | combinations(arr, n) | 배열안에서 n개를 꺼낼때의 모든 경우의 수를 찾아내 꺼내어줌 | 이터레이터(리스트 변환 해야함) |
 | 내장 | count(str or int) | 문자열, 튜플, 리스트 등등에서 파라미터의 값이 몇 개 있는지 카운팅 해줌 | 정수 |
 | collections | Counter(str or list or tuple ...) | 문자열, 튜플, 리스트 등등에서 중복되는 원소의 값이 각각 몇 개 있는지 카운팅 해줌 | 딕셔너리 |
+| import heapq | heapq.heappush(리스트, 입력값) ,heappop(리스트) | 리스트를 힙 처럼 사용할수 있게 해줌 (이진트리) | 리스트 |
