@@ -32,3 +32,4 @@
 | 20 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | Level 2 | [Solution](programmers/level2/N개의%20최소공배수/Solution.py) | Python |
 | 21 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | Level 2 | [Solution](programmers/level2/할인%20행사/Solution.py) | Python |
 | 22 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | Level 2 | [Solution](programmers/level2/예상%20대진표/Solution.py) | Python |
+| 23 | [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | Level 2 | [Solution](programmers/level1/추억점수/Solution.py) | Python |
